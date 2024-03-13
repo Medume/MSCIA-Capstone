@@ -39,7 +39,7 @@ The overall goal of these steps combined is to create a strategic cybersecurity 
 
 <p align="center">
 The security problem that was being investigated: <br/>
-![alt text](https://imgur.com/a/K99MBYv)
+![Screenshot (557)](https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/597e010a-6a59-4ad7-879d-e65b211fbe2c)
 <img src="https://imgur.com/a/K99MBYv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
