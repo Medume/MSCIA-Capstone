@@ -1,4 +1,4 @@
-<h1>MSCIA-Capstone</h1>
+<h1>MSCIA Capstone</h1>
 
 <h2>Description</h2>
 The main goal of the capstone project was to make a significant impact on the security of the organization (NexusTech), even if it's a fictional one. The plan was to fortify the organization's defenses,  by proactively addressing new threats. This was done through risk assessments, vulnerability assessments, and threat monitoring to name a few. Through careful analysis, the aim was to enhance incident response strategies that would ensure quick and effective actions when facing cyber incidents. Ultimately, the goal was to create a safer digital environment, while protecting critical assets and data from future cyber attacks.
