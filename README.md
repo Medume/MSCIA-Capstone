@@ -50,7 +50,7 @@ The stakeholders involved and how they were affected by the security problem:  <
 <br/>
 <img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/76e0830a-64b1-4c93-87d2-6fa1d9cae7c9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
-<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/d47ca7b4-7e6e-451f-9b55-3964458ed09a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/ec49c5e9-09cb-4c9c-91ab-aa4f56c453b9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h4 align="center">
@@ -62,13 +62,13 @@ A list of functional and detailed requirements to carry out the proposal: <br/>
 <h4 align="center">
 Project launch strategy:  <br/>
 <br/>
-<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/4323edaa-be4e-48ff-9122-9d9af99b6d20" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/70998db3-8955-4179-84f1-d00778c9ab28" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h4 align="center">
 Implementation risks:  <br/>
 <br/>
-<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/a153232c-4702-4b7f-857a-ce5a651fef5f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/8ebf8a62-07b6-4df3-9be3-3460686c46ae" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h4 align="center">
@@ -80,7 +80,7 @@ Evaluation framework used for assessing the project:  <br/>
 <h4 align="center">
 Minimal Acceptance Criteria and Key Performance Indicators (KPIs):  <br/>
 <br/>
-<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/f23f4ad8-a72a-4557-b1a2-f3774a511410" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/19b3e486-1917-422a-aa7c-0dc81655d990" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
@@ -100,7 +100,7 @@ How our solution meets certain cybersecurity assurance criteria: <br/>
 <h4 align="center">
 The addressing of data collection and implementation elements:  <br/>
 <br/>
-<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/19fd3cff-397b-418d-b92f-c74a810d01ac" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/21f51b98-73bd-4710-b344-6d92b1740506" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h4 align="center">
@@ -118,8 +118,7 @@ The post-implementation maintenance plan for the solution:  <br/>
 <h4 align="center">
 The Security Policy:  <br/>
 <br/>
-<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/545ca632-213e-492f-9944-4585ec4e5253"
- height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/82783e3f-cf75-45b7-a861-02e67823d480" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/a886f1c9-e6ca-46ac-a4bd-cf5600b54df7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
