@@ -82,7 +82,7 @@ Minimal Acceptance Criteria and Key Performance Indicators (KPIs):  <br/>
 <br/>
 <img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/19b3e486-1917-422a-aa7c-0dc81655d990" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- [Part 1 PDF](https://www.dropbox.com/scl/fi/4xnuevrar54r4hvwjci8s/Resume.pdf?rlkey=jim8pmpqtwziwcqwy3yfuc7sv&dl=0)
+ [Part 1 PDF](https://www.dropbox.com/scl/fi/jlbz9xr2fs38owxqblrmv/Cap1.pdf?rlkey=fgtc3f9cj41ydzqvzdgadbod5&dl=0)
 </h4>
 </p>
 
@@ -125,7 +125,7 @@ The Security Policy:  <br/>
 <br/>
 <img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/a886f1c9-e6ca-46ac-a4bd-cf5600b54df7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
-[Part 2 PDF](https://ibb.co/5LYDH90)
+[Part 2 PDF](https://www.dropbox.com/scl/fi/v967dje1h304hn5oy52jm/Cap-2.pdf?rlkey=qa0hvjt8ciokwfnq45l6trdx2&dl=0)
 </h4>
 </p>
  
