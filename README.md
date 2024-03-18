@@ -116,6 +116,10 @@ How the security solution met the stakeholder's needs: <br/>
 The post-implementation maintenance plan for the solution:  <br/>
 <br/>
 <img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/59c1b7c4-9feb-4689-b5b5-b0a1f500de46" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ 
+[Part 2 PDF](https://www.dropbox.com/scl/fi/v967dje1h304hn5oy52jm/Cap-2.pdf?rlkey=qa0hvjt8ciokwfnq45l6trdx2&dl=0)
 <br />
 <br />
 <h4 align="center">
@@ -125,7 +129,6 @@ The Security Policy:  <br/>
 <br/>
 <img src="https://github.com/MichaelOmali/MSCIA-Capstone/assets/163071085/a886f1c9-e6ca-46ac-a4bd-cf5600b54df7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
-[Part 2 PDF](https://www.dropbox.com/scl/fi/v967dje1h304hn5oy52jm/Cap-2.pdf?rlkey=qa0hvjt8ciokwfnq45l6trdx2&dl=0)
 </h4>
 </p>
  
